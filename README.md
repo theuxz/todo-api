@@ -3,7 +3,7 @@
 API REST de lista de tarefas desenvolvida com Python e FastAPI.
 
 ## 🚀 Tecnologias
-- Python 3
+- Python 3.14.4
 - FastAPI
 - Uvicorn
 
